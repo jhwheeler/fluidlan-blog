@@ -11,6 +11,9 @@ After going through the intro courses on [FreeCodeCamp](https://freecodecamp.com
 
 Doing some more research, I found [React](https://facebook.github.io/react/) and started learning with Wes Bos' epic course, [React for Beginners](https://reactforbeginners.com/) (I also learned Markdown from his free course).
 
+## The Importance of a Mentor
+
+I'm incredibly blessed to have the support of an experienced programmer as my mentor. You can see Hakini's Github [here](https://github.com/dimddev). He's a real powerhouse back-end developer and sysadmin, and having his insights and guidance is key. If you're looking to start programming yourself, find someone you can turn to when you're really stuck - it'll be huge help in the end! But don't ask them for every little thing - part of becoming a true programmer is learning to solve problems on your own. Independence and self-reliance is what it's all about!
 
 ## Gatsby
 
