@@ -3,7 +3,6 @@
 title: Building This Blog 
 date: "2016-12-16.23:00"
 layout: post
-readNext: "/"
 path: "/building-this-blog/"
 ---
 
