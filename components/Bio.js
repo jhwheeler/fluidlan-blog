@@ -23,7 +23,7 @@ class Bio extends React.Component {
             height: rhythm(2),
           }}
         />
-        Written by <strong>{config.authorName}</strong>, a linguist, writer, and budding web developer.</p>
+        Founded by <strong>{config.authorName}</strong>: linguist, writer, and budding web developer.</p>
     )
   }
 }
